@@ -1,0 +1,6 @@
+langchain
+requests
+python-dotenv
+transformers
+google-generativeai
+langchain-google-genai
